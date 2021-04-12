@@ -1,3 +1,16 @@
+<h1 class="p-title-value">Shell разведки и аудит сервера linux.</h1>
+<p>ISL.SH выгружает информацию в ISL.log. Для удобства ищите интересующую информацию по Тегам.</p>
+<p>&nbsp; &nbsp; Запуск:</p>
+<ol>
+<li><span>chmod +x ISL.sh</span></li>
+<li><span>./ISL.sh</span><span></span></li>
+</ol>
+<p><span>&nbsp; &nbsp; Просмотр выгруженной информации:</span></p>
+<ol>
+<li><span>nano ISL.log</span></li>
+</ol>
+<p><strong>Таблица тегов:</strong></p>
+<p></p>
 <table><tbody>
     <tr>
         <td>определение версии и типа дистрибутива:</td>
